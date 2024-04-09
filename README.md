@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=alukan&theme=dark&hide_border=true&mode=weekly&hide_longest_streak=true&&starting_year=2023)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **alukan/alukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
