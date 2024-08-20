@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am CS student with some expirience in full stack.
-<!-- - 🌱 I’m currently learning mainly backend (outside of classes) -->
-- ⚡ Fun fact:
+🌱 I’m currently working on [Alfred-assistant](alfred-assistant.com)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=alukan&theme=dark&hide_border=true&mode=weekly&hide_longest_streak=true&&starting_year=2023)](https://git.io/streak-stats)
 
